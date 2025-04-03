@@ -2,17 +2,27 @@
 A Power Apps solution for an animal shelter, built as part of the Microsoft Power Up Program. Includes a Model-Driven App for shelter staff, a Canvas App for foster families, Business Process Flows, and a Cloud Flow for automated notifications.
 
 ## **Screenshots & Demo**  
-**Canvas App**  
-![Welcome Screen](https://github.com/akankshagailakoti/AnimalShelter-Solution-PowerApps/blob/main/canvas%20app.png)
-![Home Screen](https://github.com/akankshagailakoti/AnimalShelter-Solution-PowerApps/blob/main/canvas%20app%201.png)
-![Foster Screen](https://github.com/akankshagailakoti/AnimalShelter-Solution-PowerApps/blob/main/canvas%20app%202.png)
-**Model Driven App**
-(https://github.com/akankshagailakoti/AnimalShelter-Solution-PowerApps/blob/main/model%20driven%20app.png)
-**Power BI** 
-![Landing Page](https://github.com/akankshagailakoti/AnimalShelter-Solution-PowerApps/blob/main/power%20bi%20report.png)
-![trends](https://github.com/akankshagailakoti/AnimalShelter-Solution-PowerApps/blob/main/power%20bi%20report%201.png)
 
-**[Watch the Demo Video](https://www.youtube.com/watch?v=NPHvukHG9f4)**  
+### **Canvas App**  
+1. **Welcome Screen**  
+   ![Welcome Screen](https://github.com/akankshagailakoti/AnimalShelter-Solution-PowerApps/blob/main/canvas%20app.png)  
+2. **Home Screen**  
+   ![Home Screen](https://github.com/akankshagailakoti/AnimalShelter-Solution-PowerApps/blob/main/canvas%20app%201.png)  
+3. **Foster Screen**  
+   ![Foster Screen](https://github.com/akankshagailakoti/AnimalShelter-Solution-PowerApps/blob/main/canvas%20app%202.png)  
+
+### **Model-Driven App**  
+![Model Driven App](https://github.com/akankshagailakoti/AnimalShelter-Solution-PowerApps/blob/main/model%20driven%20app.png)  
+
+### **Power BI Reports**  
+1. **Landing Page**  
+   ![Landing Page](https://github.com/akankshagailakoti/AnimalShelter-Solution-PowerApps/blob/main/power%20bi%20report.png)  
+2. **Trends Report**  
+   ![Trends](https://github.com/akankshagailakoti/AnimalShelter-Solution-PowerApps/blob/main/power%20bi%20report%201.png)  
+
+## **Demo Video**  
+[![Shelter Solution Demo](https://img.youtube.com/vi/NPHvukHG9f4/maxresdefault.jpg)](https://www.youtube.com/watch?v=NPHvukHG9f4)
+
 
 ## **Features**  
 - **Model-Driven App:** Allows shelter staff to efficiently manage animal records, update medical information, and track adoption statuses.  
@@ -22,9 +32,10 @@ A Power Apps solution for an animal shelter, built as part of the Microsoft Powe
 - **Power BI Report:** Offers insightful visual analytics on shelter operations, fostering trends, and animal statuses, helping staff make data-driven decisions.  
 
 ## **How to Use**  
-1. Download the **ShelterSolution.zip** file.  
+1. Download the [**ShelterSolution.zip**](https://github.com/akankshagailakoti/AnimalShelter-Solution-PowerApps/blob/main/ShelterSolution.zip).  
 2. Import it into **Power Apps**.  
 3. Follow the setup guide.  
+
 
 ## **Why This Project?**  
 This project showcases my skills in Power Apps, Power Automate, and Dataverse.  
