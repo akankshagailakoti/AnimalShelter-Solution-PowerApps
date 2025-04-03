@@ -48,6 +48,6 @@ This project showcases my skills in Power Apps, Power Automate, and Dataverse.
 - **Power BI** for interactive reports and analytics  
 
 ## **Links**  
-[LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/akanksha-gailakoti/)  
-[Watch the Demo](https://www.youtube.com/watch?v=NPHvukHG9f4)  
+🔗[Akanksha Gailakoti LinkedIn](https://www.linkedin.com/in/akanksha-gailakoti/)  
+🎥[Watch the Demo](https://www.youtube.com/watch?v=NPHvukHG9f4)  
 
