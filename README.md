@@ -31,14 +31,10 @@ A Power Apps solution for an animal shelter, built as part of the Microsoft Powe
 - **Business Process Flow (BPF):** Streamlines data entry and management by guiding shelter staff through structured stages, ensuring all necessary details are captured accurately.  
 - **Power BI Report:** Offers insightful visual analytics on shelter operations, fostering trends, and animal statuses, helping staff make data-driven decisions.  
 
-## **How to Use**  
-1. Download the [**ShelterSolution.zip**](https://github.com/akankshagailakoti/AnimalShelter-Solution-PowerApps/blob/main/ShelterSolution.zip).  
-2. Import it into **Power Apps**.  
-3. Follow the setup guide.  
-
 
 ## **Why This Project?**  
 This project showcases my skills in Power Apps, Power Automate, and Dataverse.  
+
 
 ## **Tech Stack**  
 - **Power Apps** (Model-Driven & Canvas Apps)  
